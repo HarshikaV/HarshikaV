@@ -25,9 +25,9 @@ Technical Skills:
 - Frameworks & Tools: React, Git
 
 Featured Projects:
-Project - Model for predicting sentiment of book reviews | Tech - Python
-Project - Model for early detection of oral cancer | Tech - Python
-Project - Egyptian War | Tech - Java
+[Project - Model for predicting sentiment of book reviews](https://github.com/HarshikaV/book-review-sentiment) | Tech - Python
+[Project - Model for early detection of oral cancer](https://github.com/HarshikaV/oral-cancer-prediction) | Tech - Python
+Project - Mortgage Document Reader | Tech - Python (I don't have this completed yet)
 
 Connect with me:
 LinkedIn: www.linkedin.com/in/harshika-vijay
