@@ -20,7 +20,8 @@ Repo: [View Project](https://github.com/HarshikaV/CarbonSenseAI)
 Worked on a multi-agent RAG system for extracting insights from enterprise documents. Built core frontend interaction features, including an advanced chat input module and integration with the agentic reasoning pipeline to enable real-time user interaction.
 
 **WiDS Global Datathon**  
-Built and evaluated predictive models for wildfire threat within 12-72 hours using early incident data. Focused on 48h and 72h horizons, including hyperparameter tuning, calibration, and evaluation using ROC-AUC, log-loss, and Brier score.
+
+Built and evaluated predictive models for wildfire threat within 12-72 hours using early incident data. Focused on 48h and 72h horizons, training and tuning models (XGBoost, LightGBM) with cross-validation, enforcing monotonocity, and evaluating performance using ROC-AUC, log-loss, calibration curves, and Brier score.
 
 ---
 
