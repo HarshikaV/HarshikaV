@@ -39,5 +39,5 @@ I enjoy building in fast-paced, collaborative environments (like hackathons), an
 ---
 
 ## 🔗 Connect
-[LinkedIn: ](https://linkedin.com/in/harshika-vijay)  
+LinkedIn: [linkedin.com/in/harshika-vijay](https://linkedin.com/in/harshika-vijay)  
 Email: harshika.vijayabharath@sjsu.edu
