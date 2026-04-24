@@ -17,7 +17,7 @@ Built an AI tool that estimates the carbon and water impact of AI workloads usin
 Repo: [View Project](https://github.com/HarshikaV/CarbonSenseAI)
 
 **Agentic AI for Insights (7-Eleven | Break Through Tech AI Studio)**  
-Built a multi-agent RAG system that extracts and summarizes insights from large volumes of enterprise documents using LLMs and vector search.  
+Worked on a multi-agent RAG system for extracting insights from enterprise documents. Built core frontend interaction features, including an advanced chat input module and integration with the agentic reasoning pipeline to enable real-time user interaction.
 
 **WiDS Global Datathon**  
 Developed models to predict wildfire threats within 12–72 hours using early-stage incident data.  
