@@ -15,7 +15,7 @@
 
 **CarbonSense AI (NVIDIA Hackathon Winner)**  
 Built an AI tool that estimates the carbon and water impact of AI workloads using an LLM agent and a Flask-based dashboard.  
-Repo: [View Project](https://github.com/yourusername/CarbonSenseAI)
+Repo: [View Project](https://github.com/HarshikaV/CarbonSenseAI)
 
 **Agentic AI for Insights (7-Eleven | Break Through Tech AI Studio)**  
 Worked on a multi-agent RAG system for extracting insights from enterprise documents. Built core frontend interaction features, including an advanced chat input module and integration with the agentic reasoning pipeline to enable real-time user interaction.
