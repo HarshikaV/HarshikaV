@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Harshika!
 
 - Data Science student at San José State University  
-- Interested in AI/ML and Software Engineering, especially building practical, real-world applications
+- Interested in AI/ML and software engineering, especially building practical, real-world applications
   
 ---
 
