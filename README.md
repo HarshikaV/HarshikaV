@@ -21,7 +21,7 @@ Worked on a multi-agent RAG system for extracting insights from enterprise docum
 
 **WiDS Global Datathon**  
 
-Built and evaluated predictive models for wildfire threat within 12-72 hours using early incident data. Focused on 48h and 72h horizons, training and tuning models (XGBoost, LightGBM) with cross-validation, enforcing monotonocity, and evaluating performance using ROC-AUC, log-loss, calibration curves, and Brier score.
+Built and evaluated predictive models for wildfire threat within 12-72 hours using early incident data. Focused on 48h and 72h horizons, training and tuning models (XGBoost, LightGBM) with cross-validation, enforcing monotonicity, and evaluating performance using ROC-AUC, log-loss, calibration curves, and Brier score.
 
 ---
 
