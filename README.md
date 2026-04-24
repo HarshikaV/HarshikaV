@@ -1,36 +1,40 @@
-Harshika Vijayabharath | Data Scientist
+## 👋 Hi, I'm Harshika!
 
-<!--
-**HarshikaV/HarshikaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Data Science student at San José State University  
+- Interested in AI/ML and software engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📍 Currently
+- Break Through Tech AI Fellow 
+- Contributed to the WiDS Global Datathon (wildfire prediction models)  
 
-Aspiring Data Scientist with experience in analyzing data. 
-🎓 Data Science at San Jose State University
-💻 Interests: Data Analytics, Machine Learning, Natural Language Processing
-✉️ Reach me: harvij26@gmail.com
+---
 
-Technical Skills:
-- Languages: Python, Java
-- Frameworks & Tools: React, Git
+## 💻 Projects
+**Agentic AI for Insights (7-Eleven | Break Through Tech AI Studio)**  
+Built a multi-agent RAG system that extracts and summarizes insights from large volumes of enterprise documents using LLMs and vector search.  
 
-Featured Projects:
-[Project - Model for predicting sentiment of book reviews](https://github.com/HarshikaV/book-review-sentiment) | Tech - Python
-[Project - Model for early detection of oral cancer](https://github.com/HarshikaV/oral-cancer-prediction) | Tech - Python
-Project - Mortgage Document Reader | Tech - Python (I don't have this completed yet)
+**CarbonSense AI (NVIDIA Hackathon Winner)**  
+Built an AI tool that estimates the carbon and water impact of AI workloads using an LLM agent and a Flask-based dashboard.  
 
-Connect with me:
-LinkedIn: www.linkedin.com/in/harshika-vijay
-Email: harvij26@gmail.com
+**WiDS Global Datathon**  
+Developed models to predict wildfire threats within 12–72 hours using early-stage incident data.  
 
+---
 
+## ⚙️ Tech
+Python, Java, SQL  
+Pandas, NumPy, scikit-learn  
+LangChain, basic LLM/agent workflows  
+Flask, Jupyter Notebooks, Git   
+
+---
+
+## 🌱 About Me
+I enjoy building in fast-paced, collaborative environments (like hackathons), and I’m currently exploring where I want to focus long-term within tech.
+
+---
+
+## 📫 Connect
+LinkedIn:  linkedin.com/in/harshika-vijay
