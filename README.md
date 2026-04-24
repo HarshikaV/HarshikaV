@@ -25,6 +25,13 @@ Built and evaluated predictive models for wildfire threat within 12–72 hours u
 
 ---
 
+## 🌐 Leadership & Involvement
+
+**External Outreach Director, National Student Data Corps (SJSU)**  
+Led outreach initiatives connecting 50+ students with industry professionals through events and partnerships.
+
+---
+
 ## 💻 Tech
 Python, Java, SQL  
 Pandas, NumPy, scikit-learn  
