@@ -7,7 +7,7 @@
 
 ## 📍 Currently
 - Break Through Tech AI Fellow  
-- Workibg on the WiDS Global Datathon (wildfire prediction models)  
+- Working on the WiDS Global Datathon (wildfire prediction models)  
 
 ---
 
