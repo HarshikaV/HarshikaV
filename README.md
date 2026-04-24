@@ -32,7 +32,7 @@ Led outreach initiatives connecting 50+ students with industry professionals thr
 
 ---
 
-## 💻 Tech
+## ⚙️ Tech
 Python, Java, SQL  
 Pandas, NumPy, scikit-learn  
 LangChain, basic LLM/agent workflows  
