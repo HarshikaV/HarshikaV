@@ -12,11 +12,11 @@
 ---
 
 ## 💻 Projects
-**Agentic AI for Insights (7-Eleven | Break Through Tech AI Studio)**  
-Built a multi-agent RAG system that extracts and summarizes insights from large volumes of enterprise documents using LLMs and vector search.  
-
 **CarbonSense AI (NVIDIA Hackathon Winner)**  
 Built an AI tool that estimates the carbon and water impact of AI workloads using an LLM agent and a Flask-based dashboard.  
+
+**Agentic AI for Insights (7-Eleven | Break Through Tech AI Studio)**  
+Built a multi-agent RAG system that extracts and summarizes insights from large volumes of enterprise documents using LLMs and vector search.  
 
 **WiDS Global Datathon**  
 Developed models to predict wildfire threats within 12–72 hours using early-stage incident data.  
