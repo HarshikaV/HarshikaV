@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm Harshika!
 
 - Data Science student at San José State University  
-- Interested in AI/ML and software engineering  
-
+- Interested in AI/ML and Software Engineering, especially building practical, real-world applications
+  
 ---
 
 ## 📍 Currently
 - Break Through Tech AI Fellow  
-- Contributed to the WiDS Global Datathon (wildfire prediction models)  
+- Workibg on the WiDS Global Datathon (wildfire prediction models)  
 
 ---
 
@@ -41,7 +41,7 @@ Flask, Jupyter Notebooks, Git
 ---
 
 ## 🌱 About Me
-I enjoy building in fast-paced, collaborative environments (like hackathons), and I’m currently exploring where I want to focus long-term within tech.
+I enjoy building in fast-paced, collaborative environments (like hackathons), especially when I get to figure things out as I go. I'm currently exploring where I want to focus long-term within tech, and I'm interested in opportunities where I can keep building and learning.
 
 ---
 
