@@ -33,13 +33,10 @@ Leading outreach initiatives connecting 50+ students with industry professionals
 ---
 
 ## ⚙️ Tech
-**Languages:** Python, Java, SQL
-
-**Data Science:** pandas, NumPy, scikit-learn
-
-**Development:** React, FastAPI
-
-**Tools:** Git
+- **Languages:** Python, Java, SQL
+- **Data Science:** pandas, NumPy, scikit-learn
+- **Development:** React, FastAPI
+- **Tools:** Git
 
 ---
 
