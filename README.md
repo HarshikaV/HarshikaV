@@ -5,8 +5,6 @@
 🏆 NVIDIA Agents for Impact Winner
 
 🤖 Cornell Break Through Tech AI Fellow
-
-Interested in AI/ML and software engineering, especially building practical, real-world applications
   
 ---
 
