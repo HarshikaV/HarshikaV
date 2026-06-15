@@ -2,12 +2,6 @@
 
 - Data Science student at San José State University  
 - Interested in AI/ML and software engineering, especially building practical, real-world applications
-  
----
-
-## 📍 Currently
-- Break Through Tech AI Fellow  
-- Working on the WiDS Global Datathon (wildfire prediction models)  
 
 ---
 
@@ -28,15 +22,18 @@ Built and evaluated predictive models for wildfire threat within 12–72 hours u
 ## 🌐 Leadership & Involvement
 
 **External Outreach Director, National Student Data Corps (SJSU)**  
-Led outreach initiatives connecting 50+ students with industry professionals through events and partnerships.
+Leading outreach initiatives connecting 50+ students with industry professionals through events and partnerships.
+
+**Program Management Ambassador, Mozilla Responsible Computing Club (SJSU)**  
+ Organized a career development panel and co-led a Women in Tech event for a 250+ member organization.
 
 ---
 
 ## ⚙️ Tech
-Python, Java, SQL  
-Pandas, NumPy, scikit-learn  
-LangChain, basic LLM/agent workflows  
-Flask, Jupyter Notebooks, Git  
+Python, Java, SQL
+pandas, NumPy, scikit-learn
+React, FastAPI, Git
+
 
 ---
 
