@@ -1,13 +1,18 @@
 ## 👋 Hi, I'm Harshika!
 
-- Data Science student at San José State University  
-- Interested in AI/ML and software engineering, especially building practical, real-world applications
+🎓 Data Science @ SJSU
 
+🏆 NVIDIA Agents for Impact Winner
+
+🤖 Cornell Break Through Tech AI Fellow
+
+Interested in AI/ML and software engineering, especially building practical, real-world applications
+  
 ---
 
 ## 💻 Projects
 
-**CarbonSense AI (NVIDIA Hackathon Winner)**  
+**🏆 CarbonSense AI (1st Place, NVIDIA Agents for Impact)**  
 Built an AI tool that estimates the carbon and water impact of AI workloads using an LLM agent and a Flask-based dashboard.  
 Repo: [View Project](https://github.com/HarshikaV/CarbonSenseAI)
 
@@ -31,8 +36,9 @@ Leading outreach initiatives connecting 50+ students with industry professionals
 
 ## ⚙️ Tech
 Languages: Python, Java, SQL
-Data Science: pandas, NumPy, scikit-learn, Matplotlib
-Tools: Jupyter Notebooks, Google Colab, GitHub
+Data Science: pandas, NumPy, scikit-learn
+Development: React, FastAPI
+Tools: Git
 
 ---
 
