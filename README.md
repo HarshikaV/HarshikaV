@@ -16,9 +16,11 @@ Repo: [View Project](https://github.com/HarshikaV/CarbonSenseAI)
 
 **Agentic AI for Insights (7-Eleven | Break Through Tech AI Studio)**  
 Worked on a multi-agent RAG system for extracting insights from enterprise documents. Built core frontend interaction features, including an advanced chat input module and integration with the agentic reasoning pipeline to enable real-time user interaction.
+Repo: [View Project](https://github.com/sarayumummidi/7-11-agentic-ai)
 
 **WiDS Global Datathon**  
 Built and evaluated predictive models for wildfire threat within 12–72 hours using early incident data. Focused on 48h and 72h prediction horizons, training and tuning models (XGBoost, LightGBM) with cross-validation, enforcing monotonicity, and evaluating performance using ROC-AUC, log-loss, calibration curves, and Brier score.
+Repo: [View Project](https://github.com/HarshikaV/WiDS-Global-Datathon-BTT_Riparian)
 
 ---
 
